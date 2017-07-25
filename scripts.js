@@ -1,1 +1,3 @@
-// Javascript to be added
+console.log( 'Join Our Mailing List');
+
+
